@@ -54,23 +54,35 @@
                            εἶτ' ἐλογίσατο τὴν ὑπεροψίαν τῶν <persName n="urn:cite2:hmt:pers.v1:pers690">Πανθοιδῶν</persName>~
                            καὶ οὕτως ἐπὶ τὴν ὑπόμνησιν τῶν πάλαι μετῆλθεν~
                            εἶτα μετὰ ἤθους ἀπειλεῖ τῷ πολεμίῳ~ ἀναχωρεῖν αὐτῷ παραινῶν~
-                           <q>ὑπέρβιον δὲ εὐχετάασθαι</q>, ὑπὲρ δύναμιν αὐχεῖν~ καὶ τὸ μὲν σημαινόμενον πρὸς <persName n="urn:cite2:hmt:pers.v1:pers464">Εὔφορβον</persName>~
+                           <q>ὑπέρβιον</q> δὲ <q>εὐχετάασθαι</q>, ὑπὲρ δύναμιν αὐχεῖν~ καὶ τὸ μὲν σημαινόμενον πρὸς <persName n="urn:cite2:hmt:pers.v1:pers464">Εὔφορβον</persName>~
                            ἡ δὲ ἀναφορὰ πρὸς <persName n="urn:cite2:hmt:pers.v1:pers8">Δία</persName>~
                            ὅτ' ἂν γὰρ οἱ μέτριοι ἀδικῶνται παρὰ τῶν βιαίων,
                            ἄγουσι τὴν μέμψιν εἰς <choice><abbr>θν</abbr><expan>θεόν</expan></choice>~
-                           καὶ ἑτέρωθεν γὰρ ὁ <persName n="urn:cite2:hmt:pers.v1:pers119">Μενέλαος</persName> πρὸς τὸ θεῖον ἀγανακτῶν
-                           φησι~ <persName n="urn:cite2:hmt:pers.v1:pers8">Ζεῦ</persName> <choice><abbr>περ</abbr><expan>πάτερ</expan></choice>~ οὔτις σεῖο θεῶν ὀλοώτερος ἄλλος⁑</p>
+                           καὶ ἑτέρωθεν γὰρ ὁ
+                           <persName n="urn:cite2:hmt:pers.v1:pers119">Μενέλαος</persName>
+                           πρὸς τὸ θεῖον ἀγανακτῶν
+                           φησι~
+                          <cit>
+                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:3.365</ref>
+                            <q><persName n="urn:cite2:hmt:pers.v1:pers8">Ζεῦ</persName> <choice><abbr>περ</abbr><expan>πάτερ</expan></choice>~
+                            οὔτις σεῖο θεῶν ὀλοώτερος ἄλλος</q>
+                          </cit>⁑</p>
                     </div>
                 </div>
                 <div n="e3_224v_4" type="scholion">
                     <div n="lemma">
-                        <p><num value="1">α</num></p>
+                        <p><num value="4">δ</num></p>
                     </div>
                     <div n="ref">
-                        <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.8</p>
+                        <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.20</p>
                     </div>
                     <div n="comment">
-                        <p>Scholiion text</p>
+                        <p>πρῶτον ἔθηκε τὸν πόρδαλιν~ θρασὺ γὰρ τὸ ζῶον τοῦτο~
+                          δεύτερον δὲ τὸν λέοντα~ μετὰ γὰρ θράσους δεῖ καὶ ἀλκῆς~
+                          τρίτον σῦν~ οὐχ᾽ὡς γενναιότερον, ἀλλ' ὡς ἀλογίστῳ ὁρμῇ φερόμενον~
+                          λεόντων καὶ πορδάλεων πολλάκις τὸ παθεῖν φυλασσομένων~
+                          δια τοῦτο ἐπήνεγκεν <q>οὗ τε μέγιστος θυμός</q>~ ἄλλως τε~
+                          λέων μὲν καὶ πόρδαλις πολλάκις ἡμεροῦνται~ οὗτος δὲ ἀεὶ ἄγριος⁑</p>
                     </div>
                 </div>
                 <div n="e3_224v_5" type="scholion">
