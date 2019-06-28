@@ -4,7 +4,9 @@
         <fileDesc>
             <titleStmt>
                 <title>Scholia to Escorial Upsilon 1.1</title>
-                <author>YOUR NAME HERE</author>
+                <author>Natalie DiMattia</author>
+                <author>Abigail Smith</author>
+                <author>Leonie Henkes</author>
             </titleStmt>
             <publicationStmt>
                 <p>Unpublished</p>
@@ -18,12 +20,109 @@
       <group n="17">
         <text n="e3">
             <body>
-                <div n="e3_PAGE_SCHOLNUMBER" type="scholion">
+                <div n="e3_224v_1" type="scholion">
                     <div n="lemma">
-                        <p><num>GREEK NUMBER</num></p>
+                        <p><gap/></p>
                     </div>
                     <div n="ref">
-                        <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.ILIAD_LINE</p>
+                        <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.8</p>
+                    </div>
+                    <div n="comment">
+                        <p>αὐτοῦ τοῦ <persName n="urn:cite2:hmt:pers.v1:pers119">Μενελαόυ</persName> ἢ <persName n="urn:cite2:hmt:pers.v1:pers158">Πατρόκλου</persName>⁑</p>
+                    </div>
+                </div>
+                <div n="e3_224v_2" type="scholion">
+                    <div n="lemma">
+                        <p><num value="2">β</num></p>
+                    </div>
+                    <div n="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.9</p>
+                    </div>
+                    <div n="comment">
+                        <p>ὡς γὰρ ἐν κυνηγεσίοις πρωτόλεια τῷ βάλλοντι δίδοται~ οὕτω καὶ οὗτος τῶν ὅπλων ἀντιποιεῖται~ εἰ γὰρ καὶ γεγύμνωται. ἀλλ' εἰκὸς αὐτῷ παρακεῖσθαι τὰ ὅπλα⁑</p>
+                    </div>
+                </div>
+                <div n="e3_224v_3" type="scholion">
+                    <div n="lemma">
+                        <p><num value="3">γ</num></p>
+                    </div>
+                    <div n="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.19</p>
+                    </div>
+                    <div n="comment">
+                        <p>πολυκίνητος ὁ λόγος~ ἐσχετλίασε πρῶτον~
+                           εἶτ' ἐλογίσατο τὴν ὑπεροψίαν τῶν <persName n="urn:cite2:hmt:pers.v1:pers690">Πανθοιδῶν</persName>~
+                           καὶ οὕτως ἐπὶ τὴν ὑπόμνησιν τῶν πάλαι μετῆλθεν~
+                           εἶτα μετὰ ἤθους ἀπειλεῖ τῷ πολεμίῳ~ ἀναχωρεῖν αὐτῷ παραινῶν~
+                           <q>ὑπέρβιον δὲ εὐχετάασθαι</q>, ὑπὲρ δύναμιν αὐχεῖν~ καὶ τὸ μὲν σημαινόμενον πρὸς <persName n="urn:cite2:hmt:pers.v1:pers464">Εὔφορβον</persName>~
+                           ἡ δὲ ἀναφορὰ πρὸς <persName n="urn:cite2:hmt:pers.v1:pers8">Δία</persName>~
+                           ὅτ' ἂν γὰρ οἱ μέτριοι ἀδικῶνται παρὰ τῶν βιαίων,
+                           ἄγουσι τὴν μέμψιν εἰς <choice><abbr>θν</abbr><expan>θεόν</expan></choice>~
+                           καὶ ἑτέρωθεν γὰρ ὁ <persName n="urn:cite2:hmt:pers.v1:pers119">Μενέλαος</persName> πρὸς τὸ θεῖον ἀγανακτῶν
+                           φησι~ <persName n="urn:cite2:hmt:pers.v1:pers8">Ζεῦ</persName> <choice><abbr>περ</abbr><expan>πάτερ</expan></choice>~ οὔτις σεῖο θεῶν ὀλοώτερος ἄλλος⁑</p>
+                    </div>
+                </div>
+                <div n="e3_224v_4" type="scholion">
+                    <div n="lemma">
+                        <p><num value="1">α</num></p>
+                    </div>
+                    <div n="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.8</p>
+                    </div>
+                    <div n="comment">
+                        <p>Scholiion text</p>
+                    </div>
+                </div>
+                <div n="e3_224v_5" type="scholion">
+                    <div n="lemma">
+                        <p><num value="1">α</num></p>
+                    </div>
+                    <div n="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.8</p>
+                    </div>
+                    <div n="comment">
+                        <p>Scholiion text</p>
+                    </div>
+                </div>
+                <div n="e3_224v_6" type="scholion">
+                    <div n="lemma">
+                        <p><num value="1">α</num></p>
+                    </div>
+                    <div n="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.8</p>
+                    </div>
+                    <div n="comment">
+                        <p>Scholiion text</p>
+                    </div>
+                </div>
+                <div n="e3_224v_7" type="scholion">
+                    <div n="lemma">
+                        <p><num value="1">α</num></p>
+                    </div>
+                    <div n="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.8</p>
+                    </div>
+                    <div n="comment">
+                        <p>Scholiion text</p>
+                    </div>
+                </div>
+                <div n="e3_224v_8" type="scholion">
+                    <div n="lemma">
+                        <p><num value="1">α</num></p>
+                    </div>
+                    <div n="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.8</p>
+                    </div>
+                    <div n="comment">
+                        <p>Scholiion text</p>
+                    </div>
+                </div>
+                <div n="e3_224v_9" type="scholion">
+                    <div n="lemma">
+                        <p><num value="1">α</num></p>
+                    </div>
+                    <div n="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.8</p>
                     </div>
                     <div n="comment">
                         <p>Scholiion text</p>
