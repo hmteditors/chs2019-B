@@ -87,57 +87,72 @@
                 </div>
                 <div n="e3_224v_5" type="scholion">
                     <div n="lemma">
-                        <p><num value="1">α</num></p>
+                        <p><gap/></p>
                     </div>
                     <div n="ref">
-                        <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.8</p>
+                        <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.23</p>
                     </div>
                     <div n="comment">
-                        <p>Scholiion text</p>
+                        <p><persName n="urn:cite2:hmt:pers.v1:pers464">Εὔφορβος</persName>~ <persName n="urn:cite2:hmt:pers.v1:pers480">Πολυδάμας</persName>~ <persName n="urn:cite2:hmt:pers.v1:pers921">Ὑπερήνωρ</persName>, οὗτοι <persName n="urn:cite2:hmt:pers.v1:pers690">Πανθοῖδαι</persName>⁑</p>
                     </div>
                 </div>
                 <div n="e3_224v_6" type="scholion">
                     <div n="lemma">
-                        <p><num value="1">α</num></p>
+                        <p><gap/></p>
                     </div>
                     <div n="ref">
-                        <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.8</p>
+                        <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.24</p>
                     </div>
                     <div n="comment">
-                        <p>Scholiion text</p>
+                        <p>ἢ πρὸ τῆς μήνιδος~ ἢ νῦν κατὰ τὸ σιωπώμενον ἀνῄρηται~
+                          ἢ τάχα ἐν τῇ <rs type="waw">ξ</rs> αὐτῶν συμαλόντων πεφόνευται~ ἔνθα φησι~
+                            <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:14.516</ref>
+                              <q><persName n="urn:cite2:hmt:pers.v1:pers119">Ἀτρείδης</persName>
+                              δ' ἂρ' έπειθ'<persName n="urn:cite2:hmt:pers.v1:pers921">Ὑπερήνορα</persName>
+                              ποιμένα λαῶν</q></cit>~
+                          φεύγων οὖν ἀνῄρηται~ ἢ τάχα ἔθος
+                            <persName n="urn:cite2:hmt:pers.v1:pers17">Ὁμηρικὸν</persName>
+                            τὸ ἔνια παραλείπειν~ καὶ ὕστερον φράζειν~
+                          περισσὸν δὲ τὸ ἓν <q>ού</q>⁑</p>
                     </div>
                 </div>
                 <div n="e3_224v_7" type="scholion">
                     <div n="lemma">
-                        <p><num value="1">α</num></p>
+                        <p><num value="7">ζ</num></p>
                     </div>
                     <div n="ref">
-                        <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.8</p>
+                        <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.25</p>
                     </div>
                     <div n="comment">
-                        <p>Scholiion text</p>
+                        <p> ὄνησιν ἔλαβεν~ ὤνατο δὲ. ὠνείδισεν~ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:14.95</ref><q>ὠνόσατο</q></cit> δὲ. ἐμέμψατο⁑</p>
                     </div>
                 </div>
                 <div n="e3_224v_8" type="scholion">
                     <div n="lemma">
-                        <p><num value="1">α</num></p>
+                        <p><num value="8">η</num></p>
                     </div>
                     <div n="ref">
-                        <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.8</p>
+                        <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.27</p>
                     </div>
                     <div n="comment">
-                        <p>Scholiion text</p>
+                        <p>συγγνωστός ἐστιν ἰδίας ἑαυτοῦ ἀπαγγέλλων πράξεις~
+                          οὐκ ἄλλου γάρ τινος μέμνηται. ἢ ἀδελφοῦ
+                          <persName n="urn:cite2:hmt:pers.v1:pers464">Εὐφόρβου</persName>~
+                          ἐκ τῶν οἰκείων δυστυχημάτων ἀνακόπτων αὐτοῦ τὸ θράσος⁑</p>
                     </div>
                 </div>
                 <div n="e3_224v_9" type="scholion">
                     <div n="lemma">
-                        <p><num value="1">α</num></p>
+                        <p><num value="9">θ</num></p>
                     </div>
                     <div n="ref">
-                        <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.8</p>
+                        <p>urn:cts:greekLit:tlg0012.tlg001.e3:17.31-17.32</p>
                     </div>
                     <div n="comment">
-                        <p>Scholiion text</p>
+                        <p>τὸ ἑξῆς <q>ἐς πληθὺν ἰέναι</q> <q>πρίν τι κακὸν παθέειν~
+                          ῥεχθὲν δέ φησι νήπιος ἔγνω</q>, ὅτε μηδέν ἐστιν ὄφελλος~
+                          παροιμιακὸν δὲ τοῦτο~ ἐυμνημόνευτον δὲ ἀυτὸ ποιεῖ.
+                          ἡ συντομία τῆς ἀπογγελίας⁑</p>
                     </div>
                 </div>
             </body>
