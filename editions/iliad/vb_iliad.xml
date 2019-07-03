@@ -5,8 +5,9 @@
     <fileDesc>
       <titleStmt>
         <title>Iliad</title>
-        <editor>YOUR NAME HERE</editor>
-        <editor>SECOND EDITOR's NAME HERE</editor>
+        <editor>Natalie DiMattia</editor>
+        <editor>Abigail Smith</editor>
+        <editor>Leonie Henkes</editor>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished edition of the Venetus B manuscript for the Homer Multitext project</p>
@@ -19,7 +20,52 @@
   <text>
     <body>
       <div n="17">
-        <l n="1">Iliad text</l>
+        <l n="8">τὸν κτάμεναι μεμαὼς, ὅς τις τοῦ γʼ ἀντίος ἔλθοι~</l>
+        <l n="9">οὐδ' ἄρα
+          <persName n="urn:cite2:hmt:pers.v1:pers690">Πάνθου</persName>
+          υἱὸς ἐϋμελίης, ἀμέλησε</l>
+        <l n="10"><persName n="urn:cite2:hmt:pers.v1:pers158">Πατρόκλοιο</persName>
+          πεσόντος ἀμύμονος~ ἄγχι δ' ἂρ αὐτοῦ</l>
+        <l n="11">ἔστη καὶ προσέειπεν ἀρηΐφιλον
+          <persName n="urn:cite2:hmt:pers.v1:pers119">Μενέλαον</persName>
+          ~</l>
+        <l n="12"><persName n="urn:cite2:hmt:pers.v1:pers119">Ἀτρείδη Μενέλαε</persName>
+         διοτρεφὲς ὄρχαμε λαῶν~</l>
+        <l n="13">χάζεο~ λεῖπε δὲ νεκρόν~ ἔα δ' ἔναρα βροτόεντα~</l>
+        <l n="14">οὐ γάρ τις πρότερος
+          <rs type ="ethnic" n="urn:cite2:hmt:place.v1:place6">Τρώων</rs>
+          κλειτῶν τ' ἐπικούρων</l>
+        <l n="15"><persName n="urn:cite2:hmt:pers.v1:pers158">Πάτροκλον</persName>
+        βάλε δουρὶ κατὰ κρατερὴν ὑσμίνην~</l>
+        <l n="16">τῶ με ἔα_ κλέος <corr>ἐσθλὸν ἐνὶ
+          <rs type ="ethnic" n="urn:cite2:hmt:place.v1:place6">Τρώεσσϊν</rs>
+          ἀρέσθαι</corr>~</l>
+        <l n="17">μή σε βάλω ἀπo δὲ μελιηδέα θυμὸν ἕλωμαι~</l>
+        <l n="18">τὸν δε μέγʼ ὀχθήσας προσέφη ξανθὸς
+          <persName n="urn:cite2:hmt:pers.v1:pers119">Μενέλαος</persName>~</l>
+        <l n="19"> <persName n="urn:cite2:hmt:pers.v1:pers8">Ζεῦ</persName>
+          <choice>
+            <abbr>περ</abbr>
+            <expan>πάτερ</expan>
+          </choice>~ οὐ μὲν καλὸν, ὑπέρβιον εὐχετάασθαι~</l>
+        <l n="20">οὔτ' οὖν πορδάλιος τόσσον μένος; οὔτε λέοντος~</l>
+        <l n="21">οὔτε συὸς κάπρου ὀλοόφρονος~ οὗτε μέγιστος</l>
+        <l n="22">θυμὸς ἐνὶ στήθεσσι περὶ σθένεϊ βλεμεαίνει,</l>
+        <l n="23">ὅσσον
+          <persName n="urn:cite2:hmt:pers.v1:pers690">Πάνθου</persName>
+          υἷες ἐϋμελίαι φορέουσιν~</l>
+        <l n="24">οὐδὲ μὲν οὐδὲ βίη
+          <persName n="urn:cite2:hmt:pers.v1:pers921">Ὑπερήνορος</persName>
+          ἱπποδάμοιο</l>
+        <l n="25">ἧς ἥβης ἀπόνηθ', ὅτε μʼ ὤνατο καί μʼ ὑπέμεινε~</l>
+        <l n="26">καί μʼ ἔφατʼ ἐν
+          <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers66">Δαναοῖσιν</rs>
+          ἐλέγχιστον πολεμιστὴν</l>
+        <l n="27">ἔμμεναι~ οὐδέ ἑ φημὶ πόδεσσί γε οἷσι κιόντα</l>
+        <l n="28">εὐφρῆναι ἄλοχόν τε φίλην κεδνούς τε τοκῆας~</l>
+        <l n="29">ὥς, θην καὶ σὸν ἐγὼ λύσω μένος, εἴ κέ μευ ἄντα</l>
+        <l n="30">στήης~ ἀλλά σ' ἔγωγε ἀναχωρήσαντα κελεύω</l>
+        <l n="31">ἐς πληθὺν ἰέναι μὴδ' ἀντίος ἵστασ' ἐμεῖο,</l>
       </div>
     </body>
   </text>
