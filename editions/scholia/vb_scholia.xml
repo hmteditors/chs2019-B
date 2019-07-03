@@ -18,40 +18,40 @@
         <group n="17">
             <text n="msB">
                 <body>
-                    <div n="msB_230r_1" type="scholion">
+                    <div n="msB_231v_1" type="scholion">
                         <div n="lemma">
-                            <p><num value="12">ιβ</num></p>
+                            <p><num value="1">α</num></p>
                         </div>
                         <div n="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.1@ἀτρέος</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.8@τοῦ</p>
                         </div>
                         <div n="comment">
                             <p>Scholiion text</p>
                         </div>
                     </div>
-                    <div n="msB_230r_2" type="scholion">
+                    <div n="msB_231v_2" type="scholion">
                         <div n="lemma">
-                            <p><num value="12">ιβ</num></p>
+                            <p><num value="2">β</num></p>
                         </div>
                         <div n="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.1@ἀτρέος</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.9@ἄρα</p>
                         </div>
                         <div n="comment">
                             <p>Scholiion text</p>
                         </div>
                     </div>
-                    <div n="msB_230r_3" type="scholion">
+                    <div n="msB_231v_3" type="scholion">
                         <div n="lemma">
-                            <p><num value="12">ιβ</num></p>
+                            <p><num value="3">γ</num></p>
                         </div>
                         <div n="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.1@ἀτρέος</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.19@Ζεῦ</p>
                         </div>
                         <div n="comment">
                             <p>Scholiion text</p>
                         </div>
                     </div>
-                    <div n="msB_230r_4" type="scholion">
+                    <div n="msB_231v_4" type="scholion">
                         <div n="lemma">
                             <p><num value="4">δ</num></p>
                         </div>
@@ -67,56 +67,56 @@
                               λέων μὲν καὶ πόρδαλις πολλάκις ἡμεροῦνται, οὗτος δὲ ἀεὶ ἄγριος <gap></gap></p>
                         </div>
                     </div>
-                    <div n="msB_230r_5" type="scholion">
+                    <div n="msB_231v_5" type="scholion">
                         <div n="lemma">
-                            <p><num value="12">ιβ</num></p>
+                            <p><num value="3">ε</num></p>
                         </div>
                         <div n="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.1@ἀτρέος</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.23@Πάνθου</p>
                         </div>
                         <div n="comment">
                             <p>Scholiion text</p>
                         </div>
                     </div>
-                    <div n="msB_230r_6" type="scholion">
+                    <div n="msB_231v_6" type="scholion">
                         <div n="lemma">
-                            <p><num value="12">ιβ</num></p>
+                            <p><num value="6">ϝ</num></p>
                         </div>
                         <div n="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.1@ἀτρέος</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.24@βίη</p>
                         </div>
                         <div n="comment">
                             <p>Scholiion text</p>
                         </div>
                     </div>
-                    <div n="msB_230r_7" type="scholion">
+                    <div n="msB_231v_7" type="scholion">
                         <div n="lemma">
-                            <p><num value="12">ιβ</num></p>
+                            <p><num value="7">ζ</num></p>
                         </div>
                         <div n="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.1@ἀτρέος</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.25@ἀπόνηθ'</p>
                         </div>
                         <div n="comment">
                             <p>Scholiion text</p>
                         </div>
                     </div>
-                    <div n="msB_230r_8" type="scholion">
+                    <div n="msB_231v_8" type="scholion">
                         <div n="lemma">
-                            <p><num value="12">ιβ</num></p>
+                            <p><num value="8">η</num></p>
                         </div>
                         <div n="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.1@ἀτρέος</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.27@οὐδέ</p>
                         </div>
                         <div n="comment">
                             <p>Scholiion text</p>
                         </div>
                     </div>
-                    <div n="msB_230r_9" type="scholion">
+                    <div n="msB_231v_9" type="scholion">
                         <div n="lemma">
-                            <p><num value="12">ιβ</num></p>
+                            <p><num value="9">θ</num></p>
                         </div>
                         <div n="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.1@ἀτρέος</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.31@πληθὺν</p>
                         </div>
                         <div n="comment">
                             <p>Scholiion text</p>
