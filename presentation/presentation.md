@@ -1,43 +1,42 @@
-<h1 id="presentation">Leopards and Lions and Boars, Oh My!</h1>
-
-
 
 <p>The Homer Multitext Seminar · 2019 · Washington, DC</p>
 
 ---
 
-**Leopards and Lions and Boars, Oh My!**
+<div style="text-align:center"><h3>Leopards</h3></div>
 
-![](https://github.com/hmteditors/chs2019-B/blob/master/presentation/images/real_leopard-removebg.png?raw=true)
+<div style="text-align:center"><img src=https://github.com/hmteditors/chs2019-B/blob/master/presentation/images/real_leopard-removebg.png?raw=true/></div>
 
-Leonie Henkes
+<div style="text-align:center">Leonie Henkes</div>
 
-
----
-
-**Leopards and Lions and Boars, Oh My!**
-
-![](https://github.com/hmteditors/chs2019-B/blob/master/presentation/images/leo_lion-removebg.png?raw=true)
-
-Leonie Henkes - Abigail Smith
 
 ---
 
-**Leopards and Lions and Boars, Oh My!**
+<div style="text-align:center"><h3>Leopards and Lions</h3></div>
 
-![](https://github.com/hmteditors/chs2019-B/blob/master/presentation/images/animals-removebg.png?raw=true)
+<div style="text-align:center"><img src=https://github.com/hmteditors/chs2019-B/blob/master/presentation/images/leo_lion-removebg.png?raw=true/></div>
 
-Leonie Henkes - Abigail Smith - Natalie DiMattia
+<div style="text-align:center">Leonie Henkes - Abigail Smith</div>
 
 ---
 
-**Upsilon 1.1_17.19-17.23**
+<div style="text-align:center"><h5>Leopards and Lions and Boars,</h5></div>
+
+<div style="text-align:center"><h3>Oh My!</h3></div>
+
+<div style="text-align:center"><img src=https://github.com/hmteditors/chs2019-B/blob/master/presentation/images/animals-removebg.png?raw=true</div>
+
+<div style="text-align:center">Leonie Henkes - Abigail Smith - Natalie DiMattia</div>
+
+---
+
+**Iliad 17.19-17.23 from Upsilon 1.1**
 
 <img src="http://beta.hpcc.uh.edu/scs/image/600/600/urn:cite2:hmt:e3bifolio.v1:E3_224v_225r@0.1724,0.4351,0.2996,0.1145"/>
 
 ---
 
-**Upsilon 1.1_17.19-17.23**
+**Iliad 17.19-17.23**
 
 <sub><sup>Ζεῦ περ ~ οὐ μὲν καλὸν ὑπέρβιον εὐχετάασθαι~ οὔτ' οὖν πορδάλιος τόσσον μενος , οὔτε λέοντος οὔτε συὸς κάπρου ὀλοόφρονος ~ οὗ τε μέγιστος θυμὸς ἐνὶ στήθεσσι περὶ σθένεϊ βλεμεαίνει, ὅσσον Πάνθου υἷες ἐϋμμελίαι φορέουσιν~</sup></sub>
 
@@ -52,12 +51,6 @@ As that which the sons of Panthous, good-with-the-ash-spear, possess.</sup></sub
 **Upsilon 1.1 Scholion 4**
 
 <img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:e3bifolio.v1:E3_224v_225r@0.004203,0.3349,0.1603,0.2810"/>
-
----
-
-**Upsilon 1.1 Scholion 4**
-
-<sup>πρῶτον ἔθηκε τὸν πόρδαλιν~ θρασὺ γὰρ τὸ ζῶον τοῦτο~ δεύτερον δὲ τὸν λέοντα~ μετὰ γὰρ θράσους δεῖ καὶ ἀλκῆς~ τρίτον σῦν~ οὐχ'ὡς γενναιότερον, ἀλλ' ὡς ἀλογίστῳ ὁρμῇ φερόμενον~ λεόντων καὶ πορδάλεων πολλάκις τὸ παθεῖν φυλασσομένων~ δια τοῦτο ἐπήνεγκεν οὗ τε μέγιστος θυμός~ ἄλλως τε~ λέων μὲν καὶ πόρδαλις πολλάκις ἡμεροῦνται~ οὗτος δὲ ἀεὶ ἄγριος⁑</sup>
 
 ---
 
