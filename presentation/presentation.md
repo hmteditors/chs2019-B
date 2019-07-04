@@ -40,11 +40,15 @@
 
 <sub><sup>Ζεῦ περ ~ οὐ μὲν καλὸν ὑπέρβιον εὐχετάασθαι~ οὔτ' οὖν πορδάλιος τόσσον μενος , οὔτε λέοντος οὔτε συὸς κάπρου ὀλοόφρονος ~ οὗ τε μέγιστος θυμὸς ἐνὶ στήθεσσι περὶ σθένεϊ βλεμεαίνει, ὅσσον Πάνθου υἷες ἐϋμμελίαι φορέουσιν~</sup></sub>
 
-<sub><sup>Father Zeus! It is not good to boast excessively.
-Neither is the strength of the leopard so great, nor of the lion,
-Nor of the crafty pig boar, whose mightiest
-Spirit in his chest exults in his strength,
+<sub><sup>Father Zeus! It is not good to boast excessively. /
+Neither is the strength of the leopard so great, nor of the lion, /
+Nor of the crafty pig boar, whose mightiest /
+Spirit in his chest exults in his strength, /
 As that which the sons of Panthous, good-with-the-ash-spear, possess.</sup></sub>
+
+---
+
+<img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:e3bifolio.v1:E3_224v_225r@0.2323,0.4548,0.07793,0.02766"/>
 
 ---
 
@@ -56,7 +60,7 @@ As that which the sons of Panthous, good-with-the-ash-spear, possess.</sup></sub
 
 **Upsilon 1.1 Scholion 4**
 
-<sup>First, he uses the leopard, for this animal is bold. Second, he uses the lion, for with courage one also needs fighting spirit. Third, boar, not because it is more noble, but because it is carried along by unthinking assault while the lions and leopards are on guard against suffering often. Because of that he brought in "the spirit is the greatest" And differently, the lion and leopard are often tamed but he (the boar) is always wild.</sup>
+<sup>πρῶτον ἔθηκε τὸν πόρδαλιν~ θρασὺ γὰρ τὸ ζῶον τοῦτο~ δεύτερον δὲ τὸν λέοντα~ μετὰ γὰρ θράσους δεῖ καὶ ἀλκῆς~ τρίτον σῦν~ οὐχ᾽ὡς γενναιότερον, ἀλλ' ὡς ἀλογίστῳ ὁρμῇ φερόμενον~ λεόντων καὶ πορδάλεων πολλάκις τὸ παθεῖν φυλασσομένων~ δια τοῦτο ἐπήνεγκεν "οὗ τε μέγιστος θυμός"~ ἄλλως τε~ λέων μὲν καὶ πόρδαλις πολλάκις ἡμεροῦνται~ οὗτος δὲ ἀεὶ ἄγριος⁑</sup>
 
 ---
 
@@ -90,6 +94,11 @@ As that which the sons of Panthous, good-with-the-ash-spear, possess.</sup></sub
 <sub><sup>*οὔτε συος κάπρου* κατ επίτασιν - ἀλκιμωτερος γὰρ ὁ κάπρος· δι ὃ ἐπὶ πᾶσι τέτακται οὐ κ’ἄλλα διὰ τὸ θυμικώτερον εἶναι τὸν κάπρον τῶν ἄλλων ζώων ἐπενήνοχε προς αὔξησιν καὶ ἔστιν σῦς μὲν τὸ γενικὸν , κάπρος δὲ τὸ εἰδικον , ἀπο τοῦ κάπτειν⁑</sup></sub>
 
 <sub><sup>According to intensification.  For the boar (καπρος) is more combative. Therefore it applies to all (συος). | | No, it has been put after everything because the καπρος is more vehement than the other animals, for he added it for the purposes of intensification. And συς is the word indicating the genus but καπρος is the word indicating the species, from καπτω (to gulp down).</sup></sub>
+
+---
+**Venetus A Scholion on Line 17.21**
+
+<img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA223VN_0725@0.235,0.7192,0.658,0.0383"/>
 
 ---
 
