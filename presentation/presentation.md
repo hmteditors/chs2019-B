@@ -109,7 +109,7 @@ As that which the sons of Panthous, good-with-the-ash-spear, possess.</sup></sub
 ---
 
 | <sub><sup>Venetus A</sub></sup> | <sub><sup>"Twins" </sub></sup> |
-|----------------- | -----------------------|
+|-----------------|-----------------|
 | <sub><sup>...For the boar (καπρος) is more combative. Therefore it applies to all (συος). / No, it has been put after everything because the καπρος is more vehement than the other animals, ...for the purposes of intensification. And συς is the genus but καπρος is the species, from καπτω (to gulp down).</sup></sub> | <sub><sup>1st, he uses leopard bc it's bold. 2nd, lion, for one also needs fighting spirit. 3rd, boar, not bc it's more noble, but bc it's carried by unthinking assault, while lions & leopards guard against suffering; bc of that he brought in "the spirit is the greatest"; differently, lions & leopards are often tamed but boar are always wild.</sup></sub> |
 
 ---
