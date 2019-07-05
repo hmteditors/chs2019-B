@@ -106,6 +106,8 @@ As that which the sons of Panthous, good-with-the-ash-spear, possess.</sup></sub
 
 <img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA223VN_0725@0.235,0.7192,0.658,0.0383"/>
 
+[to zoom, click here](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA223VN_0725@0.234,0.7378,0.671,0.0443)
+
 ---
 
 | <sub><sup>Venetus A</sub></sup> | <sub><sup>"Twins" </sub></sup> |
